@@ -1,0 +1,17 @@
+{
+  "name": "flightapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jquery-gmaps": "^1.0.41"
+  },
+  "dependencies": {
+    "haversine-js": "^1.0.0"
+  }
+}
